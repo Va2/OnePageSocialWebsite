@@ -12,4 +12,6 @@ Le Service Social des Solidarités trouve ses origines dans les camarades des br
 * le respect des droits fondamentaux ;
 * le droit à une vie familiale et à l'intimité ;
 * la promotion des échanges interculturels et intergénérationnels ;
-* l'individualisation et la personnalisation de l'aide.
+* l'individualisation et la personnalisation de l'aide.  
+
+[SESO OnePage Website](https://va2.github.io/)
